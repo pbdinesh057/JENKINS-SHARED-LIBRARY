@@ -39,5 +39,5 @@ done < "$scan_file"
 # Display the output
 echo "$image_name"
 echo "====================================="
-echo "Total: $vulnerability_info"
+echo "$vulnerability_info"
 */
